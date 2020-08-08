@@ -1,16 +1,147 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="94a0736e-a48f-40f1-9e20-2944ce5bc02b" name="Default Changelist" comment="" />
+    <list default="true" id="94a0736e-a48f-40f1-9e20-2944ce5bc02b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/todoList.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/todoList.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/vendor/autoload.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/vendor/autoload.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/vendor/composer/autoload_real.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/vendor/composer/autoload_real.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/vendor/composer/autoload_static.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/vendor/composer/autoload_static.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/vendor/composer/installed.json" beforeDir="false" afterPath="$PROJECT_DIR$/basic/vendor/composer/installed.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/vendor/yiisoft/yii2/BaseYii.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/vendor/yiisoft/yii2/BaseYii.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/vendor/yiisoft/yii2/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/basic/vendor/yiisoft/yii2/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/vendor/yiisoft/yii2/UPGRADE.md" beforeDir="false" afterPath="$PROJECT_DIR$/basic/vendor/yiisoft/yii2/UPGRADE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/vendor/yiisoft/yii2/assets/yii.activeForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/basic/vendor/yiisoft/yii2/assets/yii.activeForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/vendor/yiisoft/yii2/console/Controller.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/vendor/yiisoft/yii2/console/Controller.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/vendor/yiisoft/yii2/console/ErrorHandler.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/vendor/yiisoft/yii2/console/ErrorHandler.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/vendor/yiisoft/yii2/console/widgets/Table.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/vendor/yiisoft/yii2/console/widgets/Table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/vendor/yiisoft/yii2/db/ActiveRecord.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/vendor/yiisoft/yii2/db/ActiveRecord.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/vendor/yiisoft/yii2/db/ActiveRecordInterface.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/vendor/yiisoft/yii2/db/ActiveRecordInterface.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/vendor/yiisoft/yii2/db/BaseActiveRecord.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/vendor/yiisoft/yii2/db/BaseActiveRecord.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/vendor/yiisoft/yii2/db/Exception.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/vendor/yiisoft/yii2/db/Exception.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/vendor/yiisoft/yii2/db/Schema.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/vendor/yiisoft/yii2/db/Schema.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/vendor/yiisoft/yii2/db/mssql/QueryBuilder.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/vendor/yiisoft/yii2/db/mssql/QueryBuilder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/vendor/yiisoft/yii2/db/mysql/Schema.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/vendor/yiisoft/yii2/db/mysql/Schema.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/vendor/yiisoft/yii2/db/sqlite/Schema.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/vendor/yiisoft/yii2/db/sqlite/Schema.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/vendor/yiisoft/yii2/helpers/BaseHtml.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/vendor/yiisoft/yii2/helpers/BaseHtml.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/vendor/yiisoft/yii2/i18n/Formatter.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/vendor/yiisoft/yii2/i18n/Formatter.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/vendor/yiisoft/yii2/messages/af/yii.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/vendor/yiisoft/yii2/messages/af/yii.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/vendor/yiisoft/yii2/messages/be/yii.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/vendor/yiisoft/yii2/messages/be/yii.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/vendor/yiisoft/yii2/messages/bg/yii.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/vendor/yiisoft/yii2/messages/bg/yii.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/vendor/yiisoft/yii2/messages/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/vendor/yiisoft/yii2/messages/config.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/vendor/yiisoft/yii2/messages/hi/yii.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/vendor/yiisoft/yii2/messages/hi/yii.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/vendor/yiisoft/yii2/messages/pt/yii.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/vendor/yiisoft/yii2/messages/pt/yii.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/vendor/yiisoft/yii2/rbac/DbManager.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/vendor/yiisoft/yii2/rbac/DbManager.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/vendor/yiisoft/yii2/validators/InlineValidator.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/vendor/yiisoft/yii2/validators/InlineValidator.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/vendor/yiisoft/yii2/validators/IpValidator.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/vendor/yiisoft/yii2/validators/IpValidator.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/vendor/yiisoft/yii2/web/Controller.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/vendor/yiisoft/yii2/web/Controller.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/vendor/yiisoft/yii2/web/DbSession.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/vendor/yiisoft/yii2/web/DbSession.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings">
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/basic/composer.json</pharConfigPath>
     <execution />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/basic" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/basic/vendor/composer" />
+      <path value="$PROJECT_DIR$/basic/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/basic/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/basic/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/basic/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/basic/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/basic/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/basic/vendor/yiisoft/yii2-composer" />
+      <path value="$PROJECT_DIR$/basic/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/basic/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/basic/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/basic/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/basic/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/basic/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/basic/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/basic/vendor/codeception/specify" />
+      <path value="$PROJECT_DIR$/basic/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/basic/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/basic/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/basic/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/basic/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/basic/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/basic/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/basic/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/basic/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/basic/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/basic/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/basic/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/basic/vendor/yiisoft/yii2-bootstrap" />
+      <path value="$PROJECT_DIR$/basic/vendor/yiisoft/yii2-swiftmailer" />
+      <path value="$PROJECT_DIR$/basic/vendor/yiisoft/yii2" />
+      <path value="$PROJECT_DIR$/basic/vendor/yiisoft/yii2-gii" />
+      <path value="$PROJECT_DIR$/basic/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/basic/vendor/symfony/browser-kit" />
+      <path value="$PROJECT_DIR$/basic/vendor/yiisoft/yii2-debug" />
+      <path value="$PROJECT_DIR$/basic/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/basic/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/basic/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/basic/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/basic/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/basic/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/basic/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/basic/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/basic/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/basic/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/basic/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/basic/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/basic/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/basic/vendor/symfony/polyfill-php70" />
+      <path value="$PROJECT_DIR$/basic/vendor/phpspec/php-diff" />
+      <path value="$PROJECT_DIR$/basic/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/basic/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/basic/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/basic/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/basic/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/basic/vendor/symfony/dom-crawler" />
+      <path value="$PROJECT_DIR$/basic/vendor/bower-asset/bootstrap" />
+      <path value="$PROJECT_DIR$/basic/vendor/bower-asset/inputmask" />
+      <path value="$PROJECT_DIR$/basic/vendor/bower-asset/jquery" />
+      <path value="$PROJECT_DIR$/basic/vendor/bower-asset/punycode" />
+      <path value="$PROJECT_DIR$/basic/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/basic/vendor/bower-asset/yii2-pjax" />
+      <path value="$PROJECT_DIR$/basic/vendor/ezyang/htmlpurifier" />
+      <path value="$PROJECT_DIR$/basic/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/basic/vendor/behat/gherkin" />
+      <path value="$PROJECT_DIR$/basic/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/basic/vendor/cebe/markdown" />
+      <path value="$PROJECT_DIR$/basic/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/basic/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/basic/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/basic/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/basic/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/basic/vendor/codeception/module-yii2" />
+      <path value="$PROJECT_DIR$/basic/vendor/codeception/phpunit-wrapper" />
+      <path value="$PROJECT_DIR$/basic/vendor/codeception/verify" />
+      <path value="$PROJECT_DIR$/basic/vendor/codeception/lib-innerbrowser" />
+      <path value="$PROJECT_DIR$/basic/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/basic/vendor/codeception/module-asserts" />
+      <path value="$PROJECT_DIR$/basic/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/basic/vendor/codeception/stub" />
+      <path value="$PROJECT_DIR$/basic/vendor/codeception/module-filesystem" />
+      <path value="$PROJECT_DIR$/basic/vendor/codeception/lib-asserts" />
+      <path value="$PROJECT_DIR$/basic/vendor/codeception/codeception" />
+      <path value="$PROJECT_DIR$/basic/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/basic/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/basic/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/basic/vendor/yiisoft/yii2-faker" />
+    </include_path>
+  </component>
   <component name="ProjectId" id="1flZB9IHCxQ7q5jBpVb1aKA95rC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -28,7 +159,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1596794501800</updated>
-      <workItem from="1596794502848" duration="9672000" />
+      <workItem from="1596794502848" duration="10314000" />
+      <workItem from="1596875529343" duration="927000" />
     </task>
     <servers />
   </component>
